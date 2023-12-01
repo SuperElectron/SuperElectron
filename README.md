@@ -38,11 +38,12 @@ Simple yet effective, this repository is a homemade surveillance system that ope
 This is a simple template to demonstrate how kubernetes can manage a fleet of edge devices and servers within a restricted service domain.
 
 
-
+---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SuperElectron/SuperElectron/assets/11896926/288c9db2-501a-451b-bb87-58be3ac773f5">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SuperElectron/SuperElectron/assets/11896926/288c9db2-501a-451b-bb87-58be3ac773f5">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/SuperElectron/SuperElectron/assets/11896926/288c9db2-501a-451b-bb87-58be3ac773f5">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SuperElectron/SuperElectron/assets/11896926/d0998408-5f18-43b7-b6d4-ce6fa78dd79f">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SuperElectron/SuperElectron/assets/11896926/d0998408-5f18-43b7-b6d4-ce6fa78dd79f">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/SuperElectron/SuperElectron/assets/11896926/d0998408-5f18-43b7-b6d4-ce6fa78dd79f" style="width: 100%; max-width: 400px;">
 </picture>
 
+---
