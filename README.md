@@ -32,11 +32,11 @@ This is a simple template to demonstrate how kubernetes can manage a fleet of ed
 
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SuperElectron/SuperElectron/assets/11896926/d0998408-5f18-43b7-b6d4-ce6fa78dd79f">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SuperElectron/SuperElectron/assets/11896926/d0998408-5f18-43b7-b6d4-ce6fa78dd79f">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/SuperElectron/SuperElectron/assets/11896926/d0998408-5f18-43b7-b6d4-ce6fa78dd79f" style="width: 100%; max-width: 400px;">
-</picture>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SuperElectron/SuperElectron/assets/11896926/d0998408-5f18-43b7-b6d4-ce6fa78dd79f">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/SuperElectron/SuperElectron/assets/11896926/d0998408-5f18-43b7-b6d4-ce6fa78dd79f">
+    <img alt="happy face." src="https://github.com/SuperElectron/SuperElectron/assets/11896926/d0998408-5f18-43b7-b6d4-ce6fa78dd79f" style="width: 100%; max-width: 400px;">
+  </picture>
+</div>
 ---
