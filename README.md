@@ -1,4 +1,6 @@
-### Hi there 👋
+---
+
+### Hi 👋
 
 Welcome to the github page of ⚡ _SuperElectron_ ⚡
 
@@ -7,7 +9,9 @@ Welcome to the github page of ⚡ _SuperElectron_ ⚡
 - 🌱 I’m currently learning more about AI, and specifically about toolkits used in machine learning.  
 
 
-### Check out some of my code
+---
+
+### Code 🚀
 
 ✨ _detection-opencv-pytorch_ ✨
 
