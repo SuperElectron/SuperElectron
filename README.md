@@ -5,7 +5,7 @@
 Welcome to the github page of ⚡ _SuperElectron_ ⚡
 
 
-- 🔭 I’m currently as a sofware consultant, but <ins>looking for a new journey</ins> after some time travelling.
+- 🔭 I’m currently as a sofware consultant, and <ins>working on growing my business</ins>.
 - 🌱 I’m currently learning more about AI, and specifically about toolkits used in machine learning.  
 
 
