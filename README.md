@@ -49,23 +49,26 @@
 <p>
 I have a <b>technical AI Newsletter</b> - written with an entrepreneurial spirit for developers.
 </p>
-<p> My mission is to <b> cultivate a vibrant and informed community</b> of AI enthusiasts, developers, and researchers.</p>
-<p> Our goal is to share valuable insights into AI, academic research, and <b>software that brings it to life</b>.</p>
 </div>
-
-<br />
 
 <div align="center">
-<a href="https://www.alphawise.cc/subscribe" target="_blank" style="text-decoration: none; font-weight: bold; color: #EC5C39;">
-Check out my newsletter at https://www.alphawise.com
-</a>
+<p> <b>https://www.alphawise.cc</b><p>
 </div>
+
 <div align="center">
 <a href="https://www.alphawise.cc/subscribe" target="_blank">
 <img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/a86ac6d3-fbf6-49a2-93a9-bc7e72c9d1e1/thumb_logo_output.png" 
 width="100" height="100" alt="Alphawise Logo" style="margin-top: 10px; border-radius: 50%;">
 </a>
 </div>
+
+<div align="center">
+<p> Do you want to get involved at a technical level?</p>
+<p> Are you looking to get your product or service in front of our audience?</p>
+<p>Email us: info@alphawise.cc</p>
+</div>
+
+<br />
 
 ---
 
@@ -90,6 +93,9 @@ width="100" height="100" alt="Alphawise Logo" style="margin-top: 10px; border-ra
 width="100" height="100" alt="Nvidia Logo" style="margin-top: 10px; border-radius: 50%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Gstreamer-logo.svg" 
 width="100" height="100" alt="Gstreamer Logo" style="margin-top: 10px; border-radius: 50%;">
+
+<br/>
+<p>I build AI systems, with a background in computer vision, current focus on Agentic AI, and good understanding of hardware & gpus. </p>
 <br/>  
 
 ---
@@ -112,6 +118,7 @@ width="100" height="100" alt="Gstreamer Logo" style="margin-top: 10px; border-ra
 
 <div align=center>
 <p><b>If you have any questions, are looking to collaborate, or just want to say hi then let's chat.</b></p>
+<p> A 15 minute meet and greet is always on the table, just mention it and let's see where it goes!</p>
 <p>mat.mccann@alphawise.cc</p>
 </div>
 
