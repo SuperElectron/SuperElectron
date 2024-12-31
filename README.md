@@ -9,9 +9,19 @@
 
 <div align=center>
 <a href="www.linkedin.com/in/mat-mccann" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="100" height="100" alt="LinkedIn icon">
 </a>
-</div>  
+
+<a href="https://x.com/alphawise_" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" width="100" height="100" alt="x.com icon">
+</a>
+
+<a href="https://bsky.app/profile/alphawise.bsky.social" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/1200px-Bluesky_Logo.svg.png" width="100" height="100" alt="Unofficial Bluesky icon">
+</a>
+</div>
+
+</div>
 
 <br/>
 
@@ -24,11 +34,43 @@
 
 <br/>
 
-### About my work 🚀
-- 🔭 I’m currently working as CTO at binoocle, and growing my business AlphaWise</ins>.
-- 🌱 I’m constantly learning more about AI, and specifically about toolkits used in machine learning and MLOps.  
+---
+
+### About me 🚀
+- 🔭 I’m currently working as CTO at binoocle, working on leading edge GenAI + Computer Vision + IoT solutions
+- 🌱 I’m constantly learning more about AI, and specifically about toolkits used in machine learning, MLOps, and Agentic AI.  
+
+---
+
+### About my newsletter 📰
+
+<div style="border: 3px solid #EC5C39; border-radius: 10px; padding: 15px; background-color: #f9f9f9; text-align: center;">
+
+<p>
+I have a <b>technical AI Newsletter</b> - written with an entrepreneurial spirit for developers.
+</p>
+<p> My mission is to <b> cultivate a vibrant and informed community</b> of AI enthusiasts, developers, and researchers.</p>
+<p> Our goal is to share valuable insights into AI, academic research, and <b>software that brings it to life</b>.</p>
+</div>
+
+<br />
+
+<div align="center">
+<a href="https://www.alphawise.cc/subscribe" target="_blank" style="text-decoration: none; font-weight: bold; color: #EC5C39;">
+Check out my newsletter at https://www.alphawise.com
+</a>
+</div>
+<div align="center">
+<a href="https://www.alphawise.cc/subscribe" target="_blank">
+<img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/a86ac6d3-fbf6-49a2-93a9-bc7e72c9d1e1/thumb_logo_output.png" 
+width="100" height="100" alt="Alphawise Logo" style="margin-top: 10px; border-radius: 50%;">
+</a>
+</div>
+
+---
 
 <br/>
+
 
 ### My expertise
 
@@ -39,33 +81,39 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,docker,aws,supabase,nvidia" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,cpp,pytorch,docker,kubernetes,aws,supabase,ubuntu,kafka" />
 </p>
-
+<p align="center">
+  
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg" 
+width="100" height="100" alt="Nvidia Logo" style="margin-top: 10px; border-radius: 50%;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Gstreamer-logo.svg" 
+width="100" height="100" alt="Gstreamer Logo" style="margin-top: 10px; border-radius: 50%;">
 <br/>  
 
+---
 
+### Connect
 
-### My favorite code 🚀
+<div align=center>
+<a href="www.linkedin.com/in/mat-mccann" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="100" height="100" alt="LinkedIn icon">
+</a>
 
-✨ _detection-opencv-pytorch_ ✨
+<a href="https://x.com/alphawise_" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" width="100" height="100" alt="x.com icon">
+</a>
 
-[repo link](https://github.com/SuperElectron/detection-opencv-pytorch)
+<a href="https://bsky.app/profile/alphawise.bsky.social" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/1200px-Bluesky_Logo.svg.png" width="100" height="100" alt="Unofficial Bluesky icon">
+</a>
+</div>
 
-This repository implements object detection using PyTorch and utilizes OpenCV for camera input. It provides a simple, practical example of integrating deep learning models with real-time video streams and sending the messages via kafka to a cloud server.
-
-
-✨ _Deepstream-3D-Depth-Camera_ ✨
-
-[repo link](https://github.com/SuperElectron/deepstream-3d-depth-camera)
-
-Demonstrating the capabilities of the NVIDIA DeepStream SDK with 3D cameras, this repository showcases the capture of depth and color images from a RealSense camera (DS435). The data is then processed through a DeepStream pipeline for further analysis and has two default options (2d or 3D point cloud) for down stream processing.
-
-✨ _TensorRT C++ Samples_ ✨
-
-[repo link](https://github.com/SuperElectron/TensorRT-samples)
-
-Here we have a playground with references to the TensorRT API for accelerated inference on Nvidia GPUs.
+<div align=center>
+<p><b>If you have any questions, are looking to collaborate, or just want to say hi then let's chat.</b></p>
+<p>mat.mccann@alphawise.cc</p>
+</div>
 
 ---
 
