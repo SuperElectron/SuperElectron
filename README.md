@@ -7,17 +7,6 @@
 
 <br/>
 
-<div align=center>
-<a href="www.linkedin.com/in/mat-mccann" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="100" height="100" alt="LinkedIn icon">
-</a>
-
-</div>
-
-</div>
-
-<br/>
-
 <div align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&repeat=false&duration=2000&pause=250&color=000000&vCenter=true&width=435&lines=;My+expertise+is+in+..." alt="Typing SVG" />
 </div>
@@ -90,17 +79,7 @@ width="75" height="75" alt="Gstreamer Logo" style="margin-top: 10px; border-radi
 <div align=center>
 <p><b>If you have any questions, are looking to collaborate, or just want to say hi then let's chat.</b></p>
 <p> A 15 minute meet and greet is always on the table, just mention it and let's see where it goes!</p>
-<p>mat.mccann@alphawise.cc</p>
-</div>
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SuperElectron/SuperElectron/assets/11896926/d0998408-5f18-43b7-b6d4-ce6fa78dd79f">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/SuperElectron/SuperElectron/assets/11896926/d0998408-5f18-43b7-b6d4-ce6fa78dd79f">
-    <img alt="happy face." src="https://github.com/SuperElectron/SuperElectron/assets/11896926/d0998408-5f18-43b7-b6d4-ce6fa78dd79f" style="width: 100%; max-width: 400px;">
-  </picture>
+<p>matmccann@gmail.com</p>
 </div>
 
 ---
