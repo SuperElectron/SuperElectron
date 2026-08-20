@@ -1,85 +1,34 @@
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&repeat=false&duration=2000&pause=500&color=000000&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Mat!" alt="Typing SVG" />
-</div>
-<div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</div>
+# Hi, I'm Mat 👋
 
-<br/>
+**I build on-prem AI systems — computer vision at the edge and agentic AI, mostly on the NVIDIA stack.**
 
-<div align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&repeat=false&duration=2000&pause=250&color=000000&vCenter=true&width=435&lines=;My+expertise+is+in+..." alt="Typing SVG" />
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&repeat=true&duration=2000&pause=250&color=000000&vCenter=true&width=435&lines=;;computer+vision;large+vision+models;large+language+models;software+architecture" alt="Typing SVG" />
-</div>
-
-<br/>
+9 years shipping production AI: defence sensor fusion, real-time weapons detection, edge inference, and LLM systems for regulated industries. Currently CTO at a European construction-AI company and founder of [runKali](https://runkali.com), an on-prem AI appliance for teams that can't send their data to the cloud.
 
 ---
 
-### About me 🚀
-- 🔭 Currently work on leading edge GenAI + Computer Vision + IoT solutions
-- 🌱 I’m constantly learning more about AI, and specifically about toolkits used in machine learning, MLOps, and Agentic AI.  
+### 🔧 Things I've shipped
+
+- **Real-time firearm detection** — 91% accuracy with a 3-second response across 30+ CCTV streams, deployed on 500+ IoT devices ([Robotic Assistance Devices](https://www.roboticassistancedevices.com/))
+- **ARCTIC MIST** — aerial sensor fusion (radar + RGB + infrared) at the edge; founding engineer on a defence product that won $10M+ in Canadian government contracts
+- **Stereoscopic 3D localization** — real-time object tracking with a 55% model-size reduction and 62% inference speedup on NVIDIA edge hardware
+- **€750k ARR in 18 months** — scaled a construction-tech AI company as CTO: AI cameras, agentic document-compliance workflows, and edge + cloud MLOps
+
+### 🚀 Currently building
+
+**[runKali](https://runkali.com)** — managed on-prem AI. Multi-engine LLM inference (vLLM) on NVIDIA hardware, agent gateways, and private RAG pipelines for heavily regulated industries.
+
+### 🛠 Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,golang,typescript,pytorch,tensorflow,docker,kubernetes,aws,linux" alt="Python, C++, Go, TypeScript, PyTorch, TensorFlow, Docker, Kubernetes, AWS, Linux" />
+</p>
+
+**NVIDIA:** CUDA · TensorRT · DeepStream · Jetson · Triton — **Video:** GStreamer · RTSP — **LLM:** vLLM · LangChain · vector databases
 
 ---
 
-<br/>
+### 🤝 Connect
 
+I'm always up for a 15-minute chat — collaboration, hard edge-AI problems, or just to say hi.
 
-### My expertise
-
-<div align="center">
-  <a href="https://github.com/SuperElectron">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SuperElectron&custom_title=Mat's%20GitHub%20Stats&show_icons=true&theme=gotham&hide_border=true&bg_color=000000&border_radius=0&count_private=true" height="150" alt="stats graph"  />
-  </a>
-</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,golang" />
-</p>
-<p align="center">
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,linux" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,github" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,kafka,postgres,fastapi" />
-</p>
-<p align="center">
-  
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg" 
-width="50" height="50" alt="Nvidia Logo" style="margin-top: 10px; border-radius: 50%;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Gstreamer-logo.svg" 
-width="75" height="75" alt="Gstreamer Logo" style="margin-top: 10px; border-radius: 50%;">
-
-<br/>
-<p>I build AI systems, with a background in computer vision, current focus on Agentic AI, and good understanding of hardware & gpus. </p>
-<br/>  
-
----
-
-### Connect
-
-<div align=center>
-<a href="www.linkedin.com/in/mat-mccann" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="100" height="100" alt="LinkedIn icon">
-</a>
-</div>
-
-<div align=center>
-<p><b>If you have any questions, are looking to collaborate, or just want to say hi then let's chat.</b></p>
-<p> A 15 minute meet and greet is always on the table, just mention it and let's see where it goes!</p>
-<p>matmccann@gmail.com</p>
-</div>
-
----
+📅 [Book a 15-min call](https://calendar.app.google/bEohcQ76UcnvAGv79) · 💼 [LinkedIn](https://www.linkedin.com/in/mat-mccann) · 🌐 [runkali.com](https://runkali.com) · ✉️ matmccann@gmail.com
