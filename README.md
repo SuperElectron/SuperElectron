@@ -2,7 +2,13 @@
 
 **I build on-prem AI systems — computer vision at the edge and agentic AI, mostly on the NVIDIA stack.**
 
-9 years shipping production AI: defence sensor fusion, real-time weapons detection, edge inference, and LLM systems for regulated industries. Currently CTO at a European construction-AI company and founder of [runKali](https://runkali.com), an on-prem AI appliance for teams that can't send their data to the cloud.
+8 years shipping production AI: 
+- defence sensor fusion
+- real-time weapons detection
+- edge inference
+- and LLM systems for regulated industries.
+
+Currently CTO at a European construction-AI company and founder of [runKali](https://runkali.com), an on-prem AI appliance for teams that can't send their data to the cloud.
 
 ---
 
