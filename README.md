@@ -13,7 +13,7 @@ I build at the intersection of AI and hardware, specializing in on-prem AI syste
 
 ### 🤝 Connect
 
-I'm always up for a 15-minute chat; Let's connect to collaborate, discuss hard edge-AI problems, or just to say hi.
+I'm always up for a 15-minute chat; Let's connect to collaborate, discuss topics, or just to say hi.
 
 📅 [Book a 15-min call](https://calendar.app.google/bEohcQ76UcnvAGv79) 
 💼 [LinkedIn](https://www.linkedin.com/in/mat-mccann)
