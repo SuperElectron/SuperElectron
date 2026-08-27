@@ -1,6 +1,6 @@
 # Hi, I'm Mat 👋
 
-I build at the intersection of AI and hardware, specializing in on-prem AI systems.
+I build at the intersection of Machine Learning and hardware, and on-prem AI systems.
 
 
 8 years shipping production AI
